@@ -1,2 +1,2 @@
 # suse-linux
-SUSE Linux image
+creat a SUSE Linux image
